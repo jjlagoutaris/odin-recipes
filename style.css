@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(100, 100, 100, .5);
+}
+h1{
+    background-color: bisque;
+    font-weight: 900;
+}
+img{
+    height: auto;
+    width: 500px;
+}
+p{
+    background-color: floralwhite;
+}
+h2{
+    background-color: chartreuse;
+}
+.li1{
+    background-color: crimson;
+}
+.li2{
+    background-color: teal;
+}
+.li3{
+    background-color: darkturquoise;
+}
+.ingredients{
+    background-color: thistle;
+}
+.instructions{
+    background-color: hotpink;
+}
+ol{
+    text-align: left;
+}
