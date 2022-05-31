@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipes website made entirely in html
+Live: https://jjlagoutaris.github.io/odin-recipes
